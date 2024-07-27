@@ -5,7 +5,7 @@
   
   :param balance: The `balance` parameter represents the current monetary balance in the account. It is used in functions like `withdrawl` to determine if there are sufficient funds for a withdrawal and in functions like `show_balance` to display the current balance to the user
   """
-  
+                                                                                                                                                                                                                                                                                                  
 """
   The function `show_balance` displays the balance in a formatted way.
   
